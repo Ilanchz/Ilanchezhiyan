@@ -20,6 +20,7 @@ Check out some of my notable projects:
 
 - Plot Wave- A programming approach to graphing [Python, SQL]
 - Link: https://github.com/Ilanchz/Plot-Wave-A-programming-approach-to-graphing
+- I have listed all my projects tinkering with different coding languages on my page.
 
 
 📬 Let's Connect :-
