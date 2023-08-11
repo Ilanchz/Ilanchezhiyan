@@ -6,7 +6,8 @@ __init__(self)
 🚀 Tech Toolbox :-
   
 My coding toolkit is well-equipped with various languages. I'm also 
-venturing into the realm of web development, honing my skills in web apps to 
+venturing into and not limited to the realm of web development and networking, 
+honing my skills in web apps to 
 craft engaging web experiences along with building desktop apps.
 
 🎓 Education :-
