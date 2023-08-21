@@ -1,4 +1,4 @@
-__init__(self)
+__init__(self):
 (
 
 
