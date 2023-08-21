@@ -30,7 +30,7 @@ Check out some of my notable projects:
 - Link: https://github.com/Ilanchz/Plot-Wave-A-programming-approach-to-graphing
 
 
-- I have listed all the projects I have tinkered with different coding languages on my page.
+- I have listed all the projects I have tinkered with on my page.
 
 
 📬 Let's Connect :-
