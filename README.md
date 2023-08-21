@@ -39,7 +39,7 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and potent
 Feel free to reach out to me on
 https://www.linkedin.com/in/ilanchezhiyan-v-78876326a/
 
-Stay curious, keep coding, and let's build a better tech future together! 🌟
+🌟
 
 
 )
