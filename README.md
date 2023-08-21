@@ -36,9 +36,7 @@ Check out some of my notable projects:
 📬 Let's Connect :-
 
 I'm always eager to connect with fellow developers, tech enthusiasts, and potential collaborators. 
-Feel free to reach out to me via 
-
-ilanchezhiyan2110023@ssn.edu.in or connect on
+Feel free to reach out to me on
 https://www.linkedin.com/in/ilanchezhiyan-v-78876326a/
 
 Stay curious, keep coding, and let's build a better tech future together! 🌟
