@@ -22,7 +22,7 @@ Check out some of my notable projects:
 - Spoofy- A web-app leveraging spotify   API to find songs and youtube API to   download the songs. The songs are      downloaded based upon the youtube      ranking of most relevant music.
 
 - Link:
-https://github.com/Ilanchz/Spoofy
+  https://github.com/Ilanchz/Spoofy
 
 
 
@@ -30,7 +30,7 @@ https://github.com/Ilanchz/Spoofy
 - Link: https://github.com/Ilanchz/Plot-Wave-A-programming-approach-to-graphing
 
 
-- I have listed all my projects tinkering with different coding languages on my page.
+- I have listed all the projects I have tinkered with different coding languages on my page.
 
 
 📬 Let's Connect :-
