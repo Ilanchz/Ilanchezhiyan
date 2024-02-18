@@ -19,6 +19,11 @@ craft engaging web experiences along with building desktop apps.
 
 Check out some of my notable projects:
 
+- Task-Manager- Website built using React.js and Tailwind with MongoDB backend to manage the generated data.
+
+- Link:
+  https://github.com/Ilanchz/Task-Manager
+
 - Spoofy- A web-app leveraging spotify   API to find songs and youtube API to   download the songs. The songs are      downloaded based upon the youtube      ranking of most relevant music.
 
 - Link:
