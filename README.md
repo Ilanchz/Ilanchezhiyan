@@ -4,6 +4,9 @@ __init__(self):
 ![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)
 
 🚀 Tech Toolbox :-
+
+- ![Tailwind CSS Logo](logos/tailwind.png) [Tailwind CSS]
+- 
   
 My coding toolkit is well-equipped with various languages. I'm also 
 venturing into and not limited to the realm of web development and networking, 
