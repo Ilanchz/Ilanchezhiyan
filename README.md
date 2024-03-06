@@ -1,7 +1,7 @@
 __init__(self):
 (
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=100)
 🚀 Tech Toolbox :-
   
 My coding toolkit is well-equipped with various languages. I'm also 
