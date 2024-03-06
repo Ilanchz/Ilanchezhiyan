@@ -5,11 +5,9 @@ __init__(self):
 
 🚀 Tech Toolbox :-
 
-- ![React Logo](logos/react_logo.jpg) [Tailwind CSS]
-- ![Tailwind CSS Logo](logos/tailwind.jpg) [Tailwind CSS]
-- ![MongoDB Logo](logos/mongo.jpg) [Tailwind CSS]
-- ![Javascript Logo](logos/javascript.jpg) [Tailwind CSS]
-- ![Python Logo](logos/python.jpg) [Tailwind CSS]
+![React Logo](logos/react_logo.jpg) ![Tailwind CSS Logo](logos/tailwind.jpg)
+![MongoDB Logo](logos/mongo.jpg) ![Javascript Logo](logos/javascript.jpg)
+![Python Logo](logos/python.jpg)
   
 My coding toolkit is well-equipped with various languages. I'm also 
 venturing into and not limited to the realm of web development and networking, 
