@@ -1,7 +1,8 @@
 __init__(self):
 (
 
-![](https://komarev.com/ghpvc/?username=Ilanchz&label=Count)
+![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)
+
 🚀 Tech Toolbox :-
   
 My coding toolkit is well-equipped with various languages. I'm also 
@@ -27,7 +28,6 @@ Check out some of my notable projects:
 
 - Link:
   https://github.com/Ilanchz/Spoofy
-
 
 
 - Plot Wave- A programming approach to graphing [Python, SQL]
