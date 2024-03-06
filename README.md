@@ -12,12 +12,10 @@ Currently Doodling with ->
 ![Python Logo](logos/python.jpg)
   
 
-
 🎓 Education :-
-
-- Pursuing a Bachelor's degree in Computer Science Engineering
-- Expected Graduation: 2025
-
+  
+  Pursuing a Bachelor's degree in Computer Science and Engineering
+  
 💡 Projects Link :-
 
   Live Sites:
