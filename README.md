@@ -1,8 +1,6 @@
 __init__(self):
 (
 
-![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)
-
 🚀 Tech Toolbox :-
 
 Currently Doodling with ->
@@ -32,6 +30,8 @@ Feel free to reach out to me on
 https://www.linkedin.com/in/ilanchezhiyan-v-78876326a/
 
 🌟
+
+![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)
 
 
 )
