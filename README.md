@@ -1,6 +1,6 @@
 ## Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)
+![Profile Views](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile_View_Count)
 
 __init__(self):
 (
