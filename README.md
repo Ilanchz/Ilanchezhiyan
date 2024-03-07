@@ -1,4 +1,6 @@
-<div style="font-size: 20rem">![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)</div>
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)
 
 __init__(self):
 (
