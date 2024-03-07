@@ -1,3 +1,5 @@
+<p style="font-size: 20">![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)</p>
+
 __init__(self):
 (
 
@@ -30,8 +32,6 @@ Feel free to reach out to me on
 https://www.linkedin.com/in/ilanchezhiyan-v-78876326a/
 
 🌟
-
-![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)
 
 
 )
