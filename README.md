@@ -1,4 +1,4 @@
-<p style="font-size: 20">![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)</p>
+<div style="font-size: 20rem">![](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)</div>
 
 __init__(self):
 (
