@@ -6,7 +6,8 @@ __init__(self):
 🚀 Tech Toolbox :-
 
 ![React Logo](logos/react_logo.png) ![Tailwind CSS Logo](logos/tailwind.jpg)
-![MongoDB Logo](logos/mongo.jpg) ![Javascript Logo](logos/javascript.jpg)
+![MongoDB Logo](logos/mongo.jpg)
+![Javascript Logo](logos/javascript.jpg)
 ![Python Logo](logos/python.jpg) ![Firebase logo](logos/firebase.png)
   
 My coding toolkit is well-equipped with various languages. I'm also 
