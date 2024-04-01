@@ -8,7 +8,7 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
 
 ## 🎓 Education
 
-- Bachelor's degree in Computer Science Engineering (Expected Graduation: 2025)
+- Bachelor's degree in Computer Science Engineering - 2025
 
 ## 🛠️ Tech Toolbox
 
