@@ -7,8 +7,6 @@ __init__(self):
 
 ![React Logo](logos/react_logo.png) ![Tailwind CSS Logo](logos/tailwind.jpg)
 ![MongoDB Logo](logos/mongo.jpg)
-
-
 ![Javascript Logo](logos/javascript.jpg)
 ![Python Logo](logos/python.jpg) ![Firebase logo](logos/firebase.png)
   
