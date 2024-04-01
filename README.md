@@ -31,6 +31,7 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
     </div>
 </div>
 
+
 ## 💡 Projects
 
 ### QueryBase (React Native with Expo and Firebase)
