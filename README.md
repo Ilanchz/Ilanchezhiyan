@@ -7,7 +7,7 @@ __init__(self):
 
 ![React Logo](logos/react_logo.jpg) ![Tailwind CSS Logo](logos/tailwind.jpg)
 ![MongoDB Logo](logos/mongo.jpg) ![Javascript Logo](logos/javascript.jpg)
-![Python Logo](logos/python.jpg)
+![Python Logo](logos/python.jpg) ![Firebase logo](logos/firebase.png)
   
 My coding toolkit is well-equipped with various languages. I'm also 
 venturing into and not limited to the realm of web development and networking, 
