@@ -6,7 +6,7 @@ __init__(self):
 🚀 Tech Toolbox :-
 
 ![React Logo](logos/react_logo.png) ![Tailwind CSS Logo](logos/tailwind.jpg)
-![MongoDB Logo](logos/mongo.jpg)
+![MongoDB Logo](logos/mongo.jpg)\n
 ![Javascript Logo](logos/javascript.jpg)
 ![Python Logo](logos/python.jpg) ![Firebase logo](logos/firebase.png)
   
