@@ -13,7 +13,6 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
 ## 🛠️ Tech Toolbox
 
 <div align="center">
-
     <img src="logos/All.png" alt="Skills" style="margin: 10px; padding: 10px; border-radius: 10%;">
 </div>
 
