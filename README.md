@@ -10,7 +10,7 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
 
 - Bachelor's degree in Computer Science Engineering - 2025
 
-## 🛠️ Tech Toolbox
+## 🛠️ Skills Box
 
 <div align="center">
     <img src="logos/All.png" alt="Skills" style="margin: 10px; padding: 10px; border-radius: 10%;">
