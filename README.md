@@ -1,7 +1,7 @@
 # Welcome to My Profile! 🚀
-
+<div style="align: center">
 ![Profile View Count](https://komarev.com/ghpvc/?username=Ilanchz&label=Profile-View-Count)
-
+<div>
 ## About Me
 
 Hey there! I'm Ilanchz, a passionate computer science engineering student with a love for web and mobile app development. My coding journey is fueled by curiosity, and I'm constantly exploring new technologies to craft engaging web experiences and build intuitive mobile apps.
