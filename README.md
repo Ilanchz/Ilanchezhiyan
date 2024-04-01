@@ -13,22 +13,8 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
 ## 🛠️ Tech Toolbox
 
 <div align="center">
-    <div>
-        <img src="logos/react_logo.png" alt="React Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/tailwind.jpg" alt="Tailwind CSS Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/mongo.jpg" alt="MongoDB Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/javascript.jpg" alt="JavaScript Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/python.jpg" alt="Python Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/firebase.png" alt="Firebase Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-    </div>
-    <div>
-        <img src="logos/express.png" alt="Express Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/node.jpg" alt="Node.js Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/html.png" alt="HTML Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/css.png" alt="CSS Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/java.jpg" alt="Java Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-        <img src="logos/C.png" alt="C Logo" width="70" height="70" style="margin: 10px; padding: 10px; border-radius: 10%;">
-    </div>
+
+    <img src="logos/All.png" alt="Skills" style="margin: 10px; padding: 10px; border-radius: 10%;">
 </div>
 
 
