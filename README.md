@@ -12,7 +12,20 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
 
 ## 🛠️ Tech Toolbox
 
-![React Logo](logos/react_logo.png) ![Tailwind CSS Logo](logos/tailwind.jpg) ![MongoDB Logo](logos/mongo.jpg) ![JavaScript Logo](logos/javascript.jpg) ![Python Logo](logos/python.jpg) ![Firebase Logo](logos/firebase.png)
+<div align="center">
+    <img src="logos/react_logo.png" alt="React Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/tailwind.jpg" alt="Tailwind CSS Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/mongo.jpg" alt="MongoDB Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/javascript.jpg" alt="JavaScript Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/python.jpg" alt="Python Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/firebase.png" alt="Firebase Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/express.png" alt="Express Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/nodejs.png" alt="Node.js Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/html.png" alt="HTML Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/css.png" alt="CSS Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/java.png" alt="Java Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+    <img src="logos/c.png" alt="C Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+</div>
 
 ## 💡 Projects
 
