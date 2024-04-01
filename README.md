@@ -27,7 +27,7 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
         <img src="logos/html.png" alt="HTML Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
         <img src="logos/css.png" alt="CSS Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
         <img src="logos/java.jpg" alt="Java Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
-        <img src="logos/c.jpg" alt="C Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
+        <img src="logos/C.png" alt="C Logo" width="50" height="50" style="margin: 10px; padding: 10px;">
     </div>
 </div>
 
