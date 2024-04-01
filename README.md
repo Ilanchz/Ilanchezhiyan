@@ -16,6 +16,12 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
 
 ## 💡 Projects
 
+### QueryBase (React Native with Expo and Firebase)
+
+An interactive mobile app built with React Native, Expo, and Firebase backend for real-time chat functionality.
+
+[GitHub Repository](https://github.com/Ilanchz/QueryBase---React-Native-Application)
+
 ### Task Manager
 
 Manage your tasks efficiently with this web app built using React.js and Tailwind CSS, powered by a MongoDB backend.
@@ -34,11 +40,6 @@ A programming approach to graphing, using Python and SQL to create dynamic plots
 
 [GitHub Repository](https://github.com/Ilanchz/Plot-Wave-A-programming-approach-to-graphing)
 
-### QueryBase (React Native with Expo and Firebase)
-
-An interactive mobile app built with React Native, Expo, and Firebase backend for real-time chat functionality.
-
-[GitHub Repository](https://github.com/Ilanchz/QueryBase---React-Native-Application)
 
 Feel free to explore more projects on my [GitHub page](https://github.com/Ilanchz).
 
