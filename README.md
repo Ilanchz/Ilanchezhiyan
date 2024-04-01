@@ -11,8 +11,8 @@ __init__(self):
   
 My coding toolkit is well-equipped with various languages. I'm also 
 venturing into and not limited to the realm of web development and networking, 
-honing my skills in web apps to 
-craft engaging web experiences along with building desktop apps.
+honing my skills in web apps and mobile apps to 
+craft engaging web experiences along with building mobile apps.
 
 🎓 Education :-
 
