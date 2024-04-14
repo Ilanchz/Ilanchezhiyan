@@ -21,13 +21,13 @@ Hey there! I'm Ilanchz, a passionate computer science engineering student with a
 
 ### QueryBase (React Native with Expo and Firebase)
 
-An interactive mobile app built with React Native, Expo, and Firebase backend.
+An interactive mobile app built with React Native, Expo, and Firebase.
 
 [GitHub Repository](https://github.com/Ilanchz/QueryBase---React-Native-Application)
 
 ### Task Manager (React, Tailwind, MongoDB)
 
-Manage your tasks efficiently with this web app built using React.js and Tailwind CSS, powered by a MongoDB backend.
+Manage your tasks efficiently with this web app built using React.js and Tailwind CSS, powered by a MongoDB.
 
 [GitHub Repository](https://github.com/Ilanchz/Task-Manager)
 
