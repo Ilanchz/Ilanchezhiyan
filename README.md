@@ -27,7 +27,7 @@ An interactive mobile app built with React Native, Expo, and Firebase.
 
 ### Task Manager (React, Tailwind, MongoDB)
 
-Manage your tasks efficiently with this web app built using React.js and Tailwind CSS, powered by a MongoDB.
+Manage your tasks efficiently with this web app built using React.js and Tailwind CSS, powered by MongoDB.
 
 [GitHub Repository](https://github.com/Ilanchz/Task-Manager)
 
