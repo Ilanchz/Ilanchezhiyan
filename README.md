@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hey there! I'm Ilanchz, a passionate computer science engineering student with a love for web and mobile app development. My coding journey is fueled by curiosity, and I'm constantly exploring new technologies to craft engaging web experiences and build intuitive mobile apps.
+A computer science engineering student/ mobile and web dev
 
 ## 🎓 Education
 
