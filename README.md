@@ -13,9 +13,28 @@ A computer science engineering student/ mobile and web dev
 ## 🛠️ Skills Box
 
 <div align="center">
-    <img src="logos/All.png" alt="Skills" style="margin: 10px; padding: 10px; border-radius: 10%;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items:center">
+        <img src="logos/react_logo.png" alt="React" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/tailwind.jpg" alt="Tailwind CSS" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/python.jpg" alt="Python" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/javascript.jpg" alt="JavaScript" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/express.png" alt="Express" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/mongo.jpg" alt="MongoDB" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/mysql.png" alt="MySQL" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/angular.png" alt="Angular" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/bootstrap.png" alt="Bootstrap" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/C.png" alt="C" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/css.png" alt="CSS" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/docker.png" alt="Docker" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/firebase.png" alt="Firebase" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/flask.png" alt="Flask" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/html.png" alt="HTML" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/java.jpg" alt="Java" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/next.png" alt="Next.js" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/node.png" alt="Node.js" style="width: 75px; height: 75px; margin: 5px;"/>
+        <img src="logos/springboot.png" alt="Spring Boot" style="width: 75px; height: 75px; margin: 5px;"/>
+    </div>
 </div>
-
 
 ## 💡 Projects
 
@@ -42,7 +61,6 @@ Discover and download your favorite songs using the Spotify and YouTube APIs. Sp
 A programming approach to graphing, using Python and SQL to create dynamic plots.
 
 [GitHub Repository](https://github.com/Ilanchz/Plot-Wave-A-programming-approach-to-graphing)
-
 
 Feel free to explore more projects on my [GitHub page](https://github.com/Ilanchz).
 
